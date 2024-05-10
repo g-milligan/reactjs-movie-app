@@ -1,3 +1,17 @@
+# ReactJS Movie App
+
+This is a learning project to help brush up on ReactJS skills.
+
+This project follows the free tutorial instruction on YouTube: <https://www.youtube.com/watch?v=b9eMGE7QtTk>
+
+Thank you to the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) YouTube channel. 
+
+Cheers :)
+
+## Useful ReactJS Extension
+
+This [Chrome Extension](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1) is pretty useful for developing ReactJS apps!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
